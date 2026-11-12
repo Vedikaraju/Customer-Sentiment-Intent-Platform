@@ -1,4 +1,7 @@
 # Customer Sentiment & Intent Platform
+🚀 **Live Demo:** https://customer-sentiment-intent-platform-frbdc8zgsxhxtu7y652cs7.streamlit.app/
+
+💻 **GitHub Repository:** https://github.com/Vedikaraju/Customer-Sentiment-Intent-Platform
 
 An AI-powered customer feedback analytics platform that analyzes customer reviews using Natural Language Processing (NLP) and Transformer-based models.
 
